@@ -7,6 +7,10 @@
 
 ```js
 var t = 1;
-console.log(t)
+console.log(t);
+
+var newFeature = 'new';
+console.log(newFeature);
 ```
+
 [More info here](readme.md)
