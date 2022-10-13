@@ -9,7 +9,7 @@
 var t = 1;
 console.log(t);
 
-var newFeature = 'new';
+var newFeature = 'newFeature';
 console.log(newFeature);
 ```
 
